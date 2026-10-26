@@ -1,0 +1,5 @@
+{
+	"name": "vitest-shared-cache-repro",
+	"private": true,
+	"workspaces": ["packages/app"]
+}
